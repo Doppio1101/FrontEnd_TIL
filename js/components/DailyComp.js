@@ -1,4 +1,3 @@
-import { dailymovie } from "../axiosURL.js";
 export default{
     template : `
         <div id="daily">
