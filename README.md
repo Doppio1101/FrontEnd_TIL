@@ -4,7 +4,7 @@
 >
 > 문제상황은 문제상황(년월일_no)로 처리(깃허브 호스팅 서버(문제)와 로컬(원하는 결과))
 
-#### 1. [영화진흥위원회 API 활용]([Document (doppio1101.github.io)](https://doppio1101.github.io/FrontEnd_TIL/main.html#/))  Microsoft Edge 사용 요망
+#### 1. [영화진흥위원회 API 활용](https://doppio1101.github.io/FrontEnd_TIL/main.html#/)  Microsoft Edge 사용 요망
 
 
 
