@@ -16,14 +16,18 @@ export default{
                     height: 400,
                     class: 'my-5'
                 },
-                img : "D:\SSAFY\workspace\vuejs\FrontEnd_TIL_Vue\img\강릉.jpg",
+                img : "",
                 
-                imgary : ["강릉", "귀토", "매트릭스","송해","엔칸토","이터널스","장르만 로맨스","최동원","캅샵"],
+                imgary : ["Dong_1920774", "Ita_1920774", "Kang_1920774",
+                        "Kuck_1920774","Mat_1920774","Nkan_1920774",
+                        "Romance_1920774","Shop_1920774","Shop_1920774"],
 
             }
         },
         created() {
-            this.mainProps = "../../img/" + this.imgary[0] + ".jpg";
+            this.img = "https://github.com/Doppio1101/FrontEnd_TIL/blob/master/img/" + this.imgary[0] + ".jpg?raw=true";
+            
+            
         },
     
 }
