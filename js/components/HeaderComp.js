@@ -7,7 +7,7 @@ export default{
                     <b-nav-item to="/" >Home </b-nav-item>
                     <b-nav-item to="/daily">일별박스오피스</b-nav-item>
                     <b-nav-item to="/week">주간박스오피스</b-nav-item>
-                    <b-nav-item ></b-nav-item>
+                    <b-nav-item disabled>상세페이지</b-nav-item>
                     </b-nav>
                 </div>
             </b-jumbotron>

@@ -24,7 +24,7 @@
                 name : "WeekComp",
             },
             {
-                path : "/info/:movieCd",
+                path : "/info",
                 component : DetailComp,
                 name : "DetailComp",
 
